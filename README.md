@@ -1,5 +1,5 @@
 # Customer-Chun-Prediction
-LP_2 
+Customer Churn Prediction
 Objective:
 
 The primary objective of the Telco Customer Churn Prediction project is to develop a machine learning model that can predict whether a customer is likely to churn or not based on various attributes and behaviors. By identifying key drivers of churn, the project aims to provide actionable insights to reduce customer attrition and enhance customer retention strategies.
